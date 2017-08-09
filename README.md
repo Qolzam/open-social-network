@@ -5,7 +5,7 @@ As my target in this project, I've intended to build a social network with featu
 
 
 ## Front-End
---
+
 ### [React Social Network](https://github.com/Qolzam/react-social-network)
 Web application user interface.
 
@@ -13,7 +13,7 @@ Web application user interface.
 Mobile application.
 
 ## Back-End
---
+
 ### [ASP.NET Core Social Network](https://github.com/Qolzam/aspnet-core-social-network)
 RESTful API Server.
 
