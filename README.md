@@ -16,11 +16,23 @@ As my target in this project, I've intended to build a social network with featu
 
 ## Front-End
 
+<p align="center">
+  <a href="http://greensocial.herokuapp.com/">
+    <img src="https://raw.githubusercontent.com/Qolzam/react-social-network/master/docs/app/multi-device.png">
+  </a>
+</p>
+
 ### [React Social Network](https://github.com/Qolzam/react-social-network)
 Web application user interface.
 
 ### [React Mobile Social](https://github.com/Qolzam/react-mobile-social)
 Mobile application.
+
+<p align="center">
+  <a href="https://github.com/Qolzam/react-mobile-social">
+    <img src="https://raw.githubusercontent.com/Qolzam/react-mobile-social/master/docs/app/screen-shot_iphone7.png">
+    </a>
+</p>
 
 ## Back-End
 
